@@ -18,13 +18,9 @@ This project contains realistic sales data (600 transactions) for the year 2024,
 - Power BI Desktop
 - GitHub
 
-## Dashboard Preview
-![Dashboard Screenshot](images/dashboard_screenshot.png)
-
 ## How to Use
 1. Open "sales_performance_dataset.xlsx" in Power BI.
 2. Create the following visualizations:
    - Monthly sales
    - Sales by region
    - Top products
-3. Export the dashboard as PDF or image to showcase in your CV.
